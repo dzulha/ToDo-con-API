@@ -30,11 +30,6 @@ The app allows users to manage a to-do list that syncs in real time with a remot
 
 ![Preview of the ToDo App](./src/assets/Captura%20de%20pantalla%202025-07-29%20170212.png
 
-
-> Make sure to replace the username in the API URL with your own when testing:
->
-> `https://playground.4geeks.com/todo/users/your-username`
-
 ---
 
 ## 📚 What I Learned
